@@ -20,7 +20,7 @@ import java.util.List;
 import static ru.javawebinar.topjava.UserTestData.*;
 
 @ContextConfiguration({
-        "classpath:spring/spring-app.xml",
+        "classpath:/spring-app-test.xml",
         "classpath:spring/spring-db.xml"
 })
 @RunWith(SpringRunner.class)
@@ -33,7 +33,7 @@ public class UserServiceTest {
         SLF4JBridgeHandler.install();
     }
 
-    @Autowired
+    @Autowired()
     private UserService service;
 
     @Test
