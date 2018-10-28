@@ -17,6 +17,8 @@ Java Enterprise Online Project
 ### <a href="https://github.com/JavaOPs/topjava/wiki">Требования к участникам, Wiki</a>
 ### <a href="cv.md">Составление резюме, подготовка к интервью, поиск работы</a>
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/37e2347cbfde4d3abe6ba9f4758424b5)](https://www.codacy.com/app/kodermanishe/topjava?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=kodermanishe/topjava&amp;utm_campaign=Badge_Grade)
+
 Вводное занятие (обязательно смотреть все видео)
 ===============
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 1. <a href="https://drive.google.com/file/d/0B9Ye2auQ_NsFY1ZDNXRCd1NCTG8">Осваиваем Java Enterprise. Трудоустройство. Ответы на вопросы.</a>
