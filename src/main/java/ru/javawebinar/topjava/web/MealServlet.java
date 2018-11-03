@@ -44,7 +44,7 @@ public class MealServlet extends HttpServlet {
         String action = request.getParameter("action");
         if (action == null) {
             Meal meal = new Meal(
-                    LocalDateTime.parse(request.getParameter("dateTббь                   ime")),
+                    LocalDateTime.parse(request.getParameter("dateTime")),
                     request.getParameter("description"),
                     Integer.parseInt(request.getParameter("calories")));
 
