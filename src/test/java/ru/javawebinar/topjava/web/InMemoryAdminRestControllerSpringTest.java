@@ -21,7 +21,6 @@ import static ru.javawebinar.topjava.UserTestData.ADMIN;
 @RunWith(SpringRunner.class)
 public class InMemoryAdminRestControllerSpringTest {
 
-    @Autowired
     private AdminRestController controller;
 
     @Autowired
